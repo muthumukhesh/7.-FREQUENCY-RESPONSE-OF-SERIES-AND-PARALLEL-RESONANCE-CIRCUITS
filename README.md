@@ -25,18 +25,22 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1600" height="1425" alt="image" src="https://github.com/user-attachments/assets/4743a1d8-1d91-4146-b738-e456c5621e55" />
 
 
 
-**Model graph:**
+**Model graph:*
 
+<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/3ccf4c5a-7ee8-4e10-85ec-3d5895505720" />
 
 
 
 **TABULATION:**
+<img width="1600" height="687" alt="image" src="https://github.com/user-attachments/assets/f1477aca-0187-46b6-8c91-16908444cd21" />
 
+GRAPH:
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/1c351321-c341-492c-875d-5fedde06e767" />
 
-**Calculation:**
 
 
 
@@ -52,7 +56,15 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
-**Mark split up:**
+WIEN BRIDGE OSCILLATOR
+
+CIRCUIT DIAGRAM :
+<img width="1600" height="1241" alt="image" src="https://github.com/user-attachments/assets/e0be7662-c358-4fcc-be8e-6e351238e4cf" />
+MODEL GRAPH:
+<img width="1600" height="1046" alt="image" src="https://github.com/user-attachments/assets/e99199a6-6154-425f-abb3-e13db935e9df" />
+GRAPH:
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/e657f4c8-dacf-416f-9442-e619ae99ddd6" />
+
 
 **RESULT:**
 
